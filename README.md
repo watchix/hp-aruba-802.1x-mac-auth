@@ -3,7 +3,7 @@
 ## 802.1x Authentifcation (to RADIUS) and MAC Authentication (to RADIUS)
 
 
-### NPS (RADIUS) configuration
+### NPS (RADIUS) configuration to allow MAC of IP phones
 ![image](https://user-images.githubusercontent.com/2278299/233077886-c038aabc-7c56-4085-9f5e-ed477a194e0f.png)
 
 Regex for Calling-station-ID : ^00-15-65-.*$
